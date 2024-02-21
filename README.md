@@ -1,2 +1,3 @@
 # wumpus-webhook-axum
-An implemenation of wumpus-webhook with Axum for learning purposes
+
+An implementation of https://github.com/tippfehlr/wumpus-webhook with Axum for learning purposes.
